@@ -67,3 +67,10 @@ B处于监听客户端请求的状态。
 > 但此时A已经关闭了，B就是一直等待，造成无意义的B资源浪费。
 
 ### 四次挥手
+
+## 参考资料
+
+[传输控制协议 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE)
+[TCP（传输控制协议）_百度百科](https://baike.baidu.com/item/TCP/33012?fr=aladdin)
+[一文搞定 UDP 和 TCP 高频面试题！](https://zhuanlan.zhihu.com/p/108822858)
+[TCP 协议简介-阮一峰](http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
