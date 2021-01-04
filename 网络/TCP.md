@@ -41,7 +41,7 @@ TCP采用了三次握手来建立连接，四次挥手来关闭连接。
 
 ### 三次握手
 
-![三次握手](img//TCP_三次握手.png)
+![三次握手](img/TCP_三次握手.png)
 
 这里A为客户端，B为服务端。
 
@@ -91,7 +91,11 @@ AB此时是连接状态。
 ## 参考资料
 
 [传输控制协议 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE)
+
 [TCP（传输控制协议）_百度百科](https://baike.baidu.com/item/TCP/33012?fr=aladdin)
+
 [一文搞定 UDP 和 TCP 高频面试题！](https://zhuanlan.zhihu.com/p/108822858)
+
 [TCP 协议简介-阮一峰](http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)
+
 书籍资料等
