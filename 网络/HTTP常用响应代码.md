@@ -61,6 +61,6 @@
 
 > 表示服务器尚未处于可以接受请求的状态。通常出现在服务器超载，或因为维护停机的情况。
 
-# 资料来源
+# 参考资料
 
 [HTTP 响应代码 - HTTP | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
