@@ -106,7 +106,7 @@ console.log(getColor(COLOR.BLUE)) // Symbol()
 
 其实还有很多的奇奇怪怪的使用场景，不过我个人认为以上两种场景就足够日常开发使用了。
 
-## 参考资料
+## 参考资料asdsadsad
 
 [Symbol - ECMAScript 6入门](https://es6.ruanyifeng.com/?search=Symbol&x=0&y=0#docs/symbol)
 
